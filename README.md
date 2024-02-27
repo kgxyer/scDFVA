@@ -36,7 +36,7 @@ python -m scDFVA  --graph_type "PKNN" --k 20 --graph_convolution "GAT" --num_hid
 python -m scDFVA  --graph_type "PKNN" --k 20 --graph_convolution "GAT" --num_hidden_layers 2 
 ```
 
-## Detail
+## Details
 
 
 ```
